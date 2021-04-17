@@ -1,2 +1,2 @@
 # UCLA-CS-33
-assignments completed for PIC 16A at UCLA in the fall of 2019
+assignments completed for CS 33 at UCLA in the fall of 2019
